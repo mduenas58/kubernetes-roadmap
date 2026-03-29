@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff02927f535acbda",
+        "id": "fd09dc5aa5051499",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6abb26be06b3f4",
+            "id": "20d15f7b4089fa14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress/Tracker.md",
+                "file": "ROADMAP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tracker"
+              "title": "ROADMAP"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "332d984f900febeb",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress/Tracker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tracker"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress/Tracker.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tracker"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress/Tracker.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tracker"
+              "title": "Outline of README"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,15 +205,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc6abb26be06b3f4",
+  "active": "20d15f7b4089fa14",
   "lastOpenFiles": [
     "README.md",
     "ROADMAP.md",
     "01-Core-Concepts/Configuration.md",
+    "01-Core-Concepts/Architecture.md",
     "00-Prerequisites/YAML.md",
     "00-Prerequisites/Networking-Basics.md",
     "00-Prerequisites/Linux-Basics.md",
     "00-Prerequisites/index.md",
-    "00-Prerequisites/Docker-Fundamentals.md"
+    "00-Prerequisites/Docker-Fundamentals.md",
+    "Resources/References.md",
+    "Progress/Tracker.md",
+    "Labs/index.md"
   ]
 }

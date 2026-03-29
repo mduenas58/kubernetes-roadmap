@@ -26,13 +26,13 @@ kubernetes-roadmap/
 
 ## Phases at a Glance
 
-| Phase | Level | Estimated Time |
-|-------|-------|----------------|
-| 00 – Prerequisites | Beginner | 2–3 weeks |
-| 01 – Core Concepts | Beginner | 3–4 weeks |
-| 02 – Intermediate | Intermediate | 4–6 weeks |
-| 03 – Advanced | Advanced | 6–8 weeks |
-| 04 – Master | Expert | Ongoing |
+| Phase              | Level        | Estimated Time |
+| ------------------ | ------------ | -------------- |
+| 00 – Prerequisites | Beginner     | 2–3 weeks      |
+| 01 – Core Concepts | Beginner     | 3–4 weeks      |
+| 02 – Intermediate  | Intermediate | 4–6 weeks      |
+| 03 – Advanced      | Advanced     | 6–8 weeks      |
+| 04 – Master        | Expert       | Ongoing        |
 
 ## Certifications Ladder
 
